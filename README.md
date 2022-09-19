@@ -25,3 +25,4 @@ pip3 install -r requirements.txt
  This is 100% educational, please do not misuse this tool.
  
 # spotify_bots
+# spotify_bots
